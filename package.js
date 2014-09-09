@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Port of Bootstrap-wysihtml5 to Meteor.",
-  version: "0.3.01",
+  version: "0.3.1",
   git:"https://github.com/jimmiebtlr/meteor-bootstrap-wysihtml5.git"
 });
 
