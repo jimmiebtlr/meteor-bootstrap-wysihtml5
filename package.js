@@ -1,5 +1,7 @@
 Package.describe({
-    summary: "Port of Bootstrap-wysihtml5 to Meteor."
+  summary: "Port of Bootstrap-wysihtml5 to Meteor.",
+  version: "0.3.0",
+  git: ""
 });
 
 Package.on_use(function (api) {
