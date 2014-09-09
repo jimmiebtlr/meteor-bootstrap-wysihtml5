@@ -5,7 +5,7 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-    api.use(['bootstrap', 'jquery'], 'client');
+    api.use(['jquery@1.0.0'], 'client');
     api.add_files([
         'lib/bootstrap-wysihtml5.js',
         'lib/bootstrap-wysihtml5.css',
